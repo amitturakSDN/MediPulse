@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "243191295217",
+    "project_id": "teccho-dev",
+    "storage_bucket": "teccho-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243191295217:android:9ce4a3609f43054efecd50",
+        "android_client_info": {
+          "package_name": "com.MediPulse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243191295217-pqvg8va64ql7irtqidqhia9jtlmgmp7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": ""
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243191295217-pqvg8va64ql7irtqidqhia9jtlmgmp7l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "243191295217-bh7i3lom316vfijv9tvnbug8bt24clnf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.react.MediPulse"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
